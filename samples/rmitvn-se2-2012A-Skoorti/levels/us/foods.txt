@@ -1,0 +1,9 @@
+Beef Meat::Beef Meat from the local area::foods/beef_meat.png::10::60::0
+Chicken::Chicken from the local area::foods/chicken.png::15::90::0
+Octopus::Octopus from the near sea::foods/octopus.jpg::30::180::0
+Fish::Fish from the near river::foods/fish.png::5::30::0
+Heart::A heart of a human stolen from the hospital::foods/heart.jpg::80::240::50
+Lung::The lung of a human bought from the black market::foods/lung.jpg::50::150::35
+Stomach::The stomach of a human bought from China::foods/stomach.jpg::60::180::40
+Brain::The brain of a dead man died by car accident::foods/brain.png::90::270::55
+Liver::The liver of a dead woman died by car accident::foods/liver.jpeg::40::120::30

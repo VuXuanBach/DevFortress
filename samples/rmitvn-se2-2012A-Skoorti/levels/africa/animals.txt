@@ -1,0 +1,5 @@
+Ninjask::Ninjask are small Pokémon that bear great resemblance to a cicada. Ninjask’s body is mostly yellow with accentations of black and gray.::201::100::animals/ninjask.png::animals/ninjask.png
+Shedinja::Shedinja's body is based on an insect's shed exoskeleton. Therefore, its body is completely hollow (it possesses no internal organs).::201::200::animals/shedinja.png::animals/shedinja.png
+Hariyama::Hariyama are very large, hulking and mostly grayish-colored Pokémon that are modeled after sumo wrestlers.::202::150::animals/hariyama.png::animals/hariyama.png
+Regice::Regice is an Ice-type Pokémon whose body is composed of Antarctic ice that resembles a crystal.::203::100::animals/regice.png::animals/regice.png
+Delcatty::Delcatty are medium-sized Pokémon with a mostly tan body. The sides of Delcatty’s head have a pointed, whisker-like protrusion. ::204::100::animals/delcatty.png::animals/delcatty.png

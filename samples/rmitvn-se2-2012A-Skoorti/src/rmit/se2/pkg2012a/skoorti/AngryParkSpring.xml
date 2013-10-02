@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.1.xsd">
+
+<bean id = "coordinate" class = "rmit.se2.pkg2012a.skoorti.model.util.Coordinate" scope="prototype">
+    <property name="x" value = "32" />
+    <property name="y" value = "32" />
+</bean>
+<bean id="cage" class="rmit.se2.pkg2012a.skoorti.model.building.Cage" scope="prototype">
+    <constructor-arg value="cage" />
+    <constructor-arg ref="coordinate" />
+    <constructor-arg value="128" />
+    <constructor-arg value="160" />
+</bean>
+<bean id="museum" class="rmit.se2.pkg2012a.skoorti.model.building.Museum" scope="prototype">
+    <constructor-arg value="museum" />
+    <constructor-arg ref="coordinate" />
+    <constructor-arg value="192" />
+    <constructor-arg value="128" />
+</bean>
+<bean id="mall" class="rmit.se2.pkg2012a.skoorti.model.building.Mall" scope="prototype">
+    <constructor-arg value="mall" />
+    <constructor-arg ref="coordinate" />
+    <constructor-arg value="160" />
+    <constructor-arg value="192" />
+</bean>
+<bean id="restaurant" class="rmit.se2.pkg2012a.skoorti.model.building.Restaurant" scope="prototype">
+    <constructor-arg value="restaurant" />
+    <constructor-arg ref="coordinate" />
+    <constructor-arg value="192" />
+    <constructor-arg value="160" />
+</bean>
+<bean id="gym" class="rmit.se2.pkg2012a.skoorti.model.building.Gym" scope="prototype">
+    <constructor-arg value="gym" />
+    <constructor-arg ref="coordinate" />
+    <constructor-arg value="160" />
+    <constructor-arg value="96" />
+</bean>
+<bean id="toilet" class="rmit.se2.pkg2012a.skoorti.model.building.Toilet" scope="prototype">
+    <constructor-arg value="toilet" />
+    <constructor-arg ref="coordinate" />
+    <constructor-arg value="64" />
+    <constructor-arg value="64" />
+</bean>
+
+</beans>

@@ -1,0 +1,5 @@
+Beautifly::Beautifly is a mostly black-colored butterfly-like Pokémon. It has a long, curled black proboscis, large blue eyes and black antennae extending out of its head::200::300::animals/beautifly.png::animals/beautifly.png
+Zigzagoon::Zigzagoon looks like a small brown and white raccoon. Its bristly fur alternates in layers of cream and brown, and, due to the jagged outline, the fur has a zigzag pattern::201::250::animals/zigzagoon.png::animals/zigzagoon.png
+Lombre::Lombre is mostly aqua-colored, with a pattern of green extending from the sides of its head down to its feet like a garment of some sort, excluding its stubby, rounded ear::202::350::animals/lombre.png::animals/lombre.png
+Ludicolo::Ludicolo is a mixture of a pineapple and a duck (or possibly a platypus). Ludicolo appears to sport a poncho and a green sombrero, which looks similar to a lily pad::203::300::animals/ludicolo.png::animals/ludicolo.png
+Shiftry::Shiftry is a large brown Pokémon with menacing features. It has a long, shaggy, white mane which covers most of its face and is comparable in appearance to a cobweb::204::400::animals/shiftry.png::animals/shiftry.png

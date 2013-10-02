@@ -1,0 +1,16 @@
+Gameplay:
+- End conditions: money == 0 && number of animal escapes > x, imprisoned by police
+- Rules for locations: Africa/Asia/US... price of animal, num of visitors, 
+- 
+
+
+More features:
+- Sell staff/animal/buildings
+- Animal chases visitor
+- Illigal foods
+- Risk of foods: top limit to be imprisoned
+- Qualification of staff: higher-leveled staff costs more than lower ones
+
+Others:
+- Unit test: GameStorage
+- Spring

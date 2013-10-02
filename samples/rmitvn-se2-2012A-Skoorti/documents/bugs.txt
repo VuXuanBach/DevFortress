@@ -1,0 +1,2 @@
+concurrent modification on animal attack
+after player clicks cancel on feed animal popup, there should be some time before the next popup

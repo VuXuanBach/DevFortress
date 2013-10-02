@@ -1,0 +1,35 @@
+Skilltype,Skill,Starting cost (for level 1),Cost compared with pre-level,Special rules
+Technical,Java,1,+2,no
+Technical,C,1,+2,no
+Technical,C++,1,+2,no
+Technical,C#,1,+2,no
+Technical,VB,1,+2,no
+Technical,Python,1,+2,no
+Technical,PHP,1,+2,no
+Technical,Ruby,1,+2,no
+Technical,Perl,1,+2,no
+Technical,Lisp,2,+4,"if no appropriate skill, this counts as the lowest skill, and it is not halved"
+Technical,Haskell,2,+4,"if no appropriate skill, this counts as the lowest skill, and it is not halved"
+Technical,Erlang,1,+2,no
+Technical,Prolog,1,+2,no
+Technical,Forth,2,+4,"if no appropriate skill, this counts as the lowest skill, and it is not halved"
+Technical,SQL,1,+2,no
+Technical,PL/SQL,1,+2,no
+Technical,T-SQL,1,+2,no
+Technical,VHDL,2,+2,no
+Technical,Unix,1,+2,no
+Technical,Windows,1,+2,no
+Technical,Oracle,1,+2,no
+Technical,SQLServer,1,+2,no
+Technical,MySQL,1,+2,no
+Technical,NoSQL,1,+2,no
+Technical,UI development,1,+2,no
+Technical,Scalability,1,+2,no
+Technical,Documentation,1,+2,no
+Technical,Performance,1,+2,no
+Meta,Design,2,*2,2 * Design skill
+Meta,Algorithms,3,*2,Technical skill * Algorthims skill
+Meta,Analysis,2,*2,3 * Analysis skill
+Personal,Team player,2,*2,Number of team players * Team player skill
+Personal,Communication,2,*2,1 unknown requirement's function points value is reduced by the total of all team members communication skills
+Config,Config management,5,+2,Total function points/((10 - Config management skill) +2)

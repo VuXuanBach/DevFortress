@@ -1,0 +1,5 @@
+Exploud::Exploud is a large blue creature whose most obvious feature is its huge mouth, where its large tongue can be seen::200::400::animals/exploud.png::animals/exploud.png
+Pelipper::Pelipper has a white-feathered body, a yellow underside and blue wingtips and head crest.::201::400::animals/pelipper.png::animals/pelipper.png
+Aggron::Aggron are huge, black and gray, monstrous bipedal Pokémon. They stand on their hind legs and may use their arms to attack opponents and pick things up::202::500::animals/aggron.png::animals/aggron.png
+Seviper::Seviper are fairly large snake Pokémon that are usually depicted scrunched up like an accordion::203::450::animals/seviper.png::animals/seviper.png
+Sceptile::Sceptile's appearance is based on a lizard. Sceptile's neck is somewhat long, and it has two crests on its head. Its eyes are semicircular with yellow scleras and red rims::204::450::animals/sceptile.png::animals/sceptile.png
